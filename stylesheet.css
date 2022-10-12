@@ -1,15 +1,7 @@
-    p.normal {
-        font-weight: normal;
-    }
     p.thick {
         font-weight: bold;
         background-color: #DDA0DD;
     }
-
-p.large {
-  font-size: 300%;
-    }
-
     h2 {
         color: #9932CC;
     }
