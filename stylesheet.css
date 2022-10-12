@@ -3,7 +3,7 @@
     }
     p.thick {
         font-weight: bold;
-        background-color: azure;
+        background-color: #DDA0DD;
     }
 
 p.large {
@@ -13,7 +13,7 @@ p.large {
         color: #9932CC;
     }
     h3 {
-        color: slateblue;
+        color: #BA55D3;
     }
     body {
         background-color: lavender;
