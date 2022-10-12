@@ -1,4 +1,7 @@
-    p.thick {
+   body {
+        background-color: #967bb6;
+    }   
+p.thick {
         font-weight: bold;
         background-color: #DDA0DD;
     }
@@ -7,7 +10,4 @@
     }
     h3 {
         color: #BA55D3;
-    }
-    body {
-        background-color: #967bb6;
     }
