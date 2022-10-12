@@ -5,6 +5,9 @@ p.thick {
         font-weight: bold;
         background-color: #D8BFD8;
     }
+    h1 {
+       color: #8B008B;
+}
     h2 {
         color: #9932CC;
     }
