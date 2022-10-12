@@ -1,0 +1,25 @@
+<head>
+<style>
+<title>Anna Lucas</title>
+    p.normal {
+        font-weight: normal;
+    }
+    p.thick {
+        font-weight: bold;
+        background-color: azure;
+    }
+
+p.large {
+  font-size: 300%;
+    }
+    h2 {
+        color: darkslateblue;
+    }
+    h3 {
+        color: slateblue;
+    }
+    body {
+        background-color: aliceblue;
+    }
+    </style>
+</head>
